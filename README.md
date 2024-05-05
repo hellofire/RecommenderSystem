@@ -1,5 +1,6 @@
 # 工业界的推荐系统
 
+[youtube](https://www.youtube.com/watch?v=5dTOPen28ts&list=PLvOO0btloRntAi-VnV06M1Bu0X1xljUUP)
 
 
 1. **概要** [[讲义](https://github.com/wangshusen/RecommenderSystem/blob/main/Notes/01_Basics.pdf)]
